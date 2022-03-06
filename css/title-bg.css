@@ -1,0 +1,79 @@
+/* bg */
+
+position: absolute;
+left: -6.35%;
+right: -10.69%;
+top: -15.93%;
+bottom: -0.6%;
+
+
+
+/* rect992 */
+
+position: absolute;
+left: -3.62%;
+right: -1.53%;
+top: -1.36%;
+bottom: -0.6%;
+
+background: #08BCDE;
+
+
+/* rect3010 */
+
+position: absolute;
+left: 85.61%;
+right: -16.8%;
+top: -15.93%;
+bottom: 76.31%;
+
+background: linear-gradient(38.42deg, #08C9DE 20.6%, rgba(8, 201, 222, 0) 62.52%);
+transform: matrix(0.91, 0.67, -0.33, 0.84, 0, 0);
+
+
+/* path4306 */
+
+position: absolute;
+left: -0.11%;
+right: 71.61%;
+top: 44.24%;
+bottom: 19.21%;
+
+background: linear-gradient(90deg, #17AAD1 0%, rgba(23, 170, 209, 0) 100%);
+transform: matrix(-0.22, -0.99, 0.95, -0.27, 0, 0);
+
+
+/* path4874 */
+
+position: absolute;
+left: 61.87%;
+right: 19.65%;
+top: 11.07%;
+bottom: 54.93%;
+
+background: linear-gradient(75.47deg, #08D4DE 16.9%, rgba(8, 212, 222, 0) 67.94%);
+transform: matrix(0.17, 0.99, -0.99, 0.17, 0, 0);
+
+
+/* rect5162 */
+
+position: absolute;
+left: 41.1%;
+right: 22.28%;
+top: 75.14%;
+bottom: -6.34%;
+
+background: linear-gradient(90deg, #21D4E2 0%, rgba(33, 212, 226, 0) 100%);
+transform: matrix(-0.97, 0.29, -0.23, -0.96, 0, 0);
+
+
+/* rect2063 */
+
+position: absolute;
+left: 76.57%;
+right: -11.08%;
+top: 43.66%;
+bottom: 13.23%;
+
+background: linear-gradient(286.78deg, #1EAAD2 38.53%, rgba(30, 170, 210, 0) 75%);
+transform: matrix(0.63, 0.6, -1.1, 0.54, 0, 0);
